@@ -1,0 +1,57 @@
+<div id="SSPP_SEASON_070101">
+ <div class="seasonViewModule">
+  <div class="sportName">
+   <p class="sportInfo">
+    Boys Varsity Soccer
+   </p>
+  </div>
+  <div class="seasonTitle">
+   <p class="titleMonth titleMonthPadded">
+    August 2016
+   </p>
+  </div>
+  <div class="seasonHeader">
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody>
+     <tr class="headerBackground">
+      <td valign="top" width="3%">
+      </td>
+      <td valign="top" width="8%">
+       <p class="seasonHeaderText">
+        Date
+       </p>
+      </td>
+      <td valign="top" width="19%">
+       <p class="seasonHeaderText">
+        Start Time (Arrival Time)
+       </p>
+      </td>
+      <td valign="top" width="8%">
+       <p class="seasonHeaderText">
+        Place
+       </p>
+      </td>
+      <td valign="top" width="25%">
+       <p class="seasonHeaderText">
+        Opponent(s)
+       </p>
+      </td>
+      <td valign="top" width="15%">
+       <p class="seasonHeaderText">
+        Location
+       </p>
+      </td>
+      <td valign="top" width="15%">
+       <p class="seasonHeaderText">
+        Event Title
+       </p>
+      </td>
+      <td valign="top" width="7%">
+       <p class="seasonHeaderText">
+        Score
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>

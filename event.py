@@ -1,20 +1,30 @@
 from datetime import datetime, timedelta
 
 class Event:
-	def __init__(self, attributes_array):
-		self.date = attributes_array[0]
-		self.time = attributes_array[1]
-		self.datetime = datetime.strptime(attributes_array[0] + "/2016 " + attributes_array[1], 
+  def __init__(self, attributes):
+    # self.date = attributes['Date']
+    # self.time = attributes['Time']
+    self.datetime = datetime.strptime(attributes['Date'] + "/2016 " + attributes['Time'], 
       "%a %m/%d/%Y %I:%M %p")
 
-		self.opponent = attributes_array[3]
-		self.location = attributes_array[4]
-		self.notes = attributes_array[5]
+    self.opponent = attributes['Name']
+    self.location = attributes['Location']
+    self.notes = attributes['Notes']
+  
+  # def __init__(self, attributes_array):
+		# self.date = attributes_array[0]
+		# self.time = attributes_array[1]
+		# self.datetime = datetime.strptime(attributes_array[0] + "/2016 " + attributes_array[1], 
+  #     "%a %m/%d/%Y %I:%M %p")
 
-	def __str__(self):
+		# self.opponent = attributes_array[3]
+		# self.location = attributes_array[4]
+		# self.notes = attributes_array[5]
+
+  def __str__(self):
 		return (self.date + " " + self.time + " " + self.opponent + " " + self.location)
 
-	def get_dict(self):
+  def get_dict(self):
 		return {
       'summary': self.opponent,
       'location': self.location,
