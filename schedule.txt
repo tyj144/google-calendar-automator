@@ -1084,9 +1084,6 @@
       <td class="seasonStartTime dividerLine " valign="center" width="19%">
        <p class="seasonDefaultText seasonTextAway ">
         4:00 pm
-        <span class="seasonArrivalTime">
-         (4:00 PM)
-        </span>
        </p>
       </td>
       <td class="seasonPlace dividerLine " valign="center" width="8%">
