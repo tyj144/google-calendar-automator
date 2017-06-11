@@ -44,9 +44,11 @@ def get_events(html, reference, row_tag=None, row_class=None, col_tag=None, col_
 	for event in schedule:
 		events_to_add.append(Event(event))
 
-	print(events_to_add[0].datetime)
+	schedule = []
+	for event in events_to_add:
+		schedule.append(event.get_dict())
 
-	return [events_to_add[0].get_dict()]
+	return schedule
 	# for event in events:
 	# 	print(event.getDict())
 

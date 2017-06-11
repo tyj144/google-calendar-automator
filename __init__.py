@@ -1,2 +1,2 @@
-__init__.py:
-	__all__ = ["scraper", "event_manager"]
+# __init__.py:
+# 	__all__ = ["scraper", "event_manager"]

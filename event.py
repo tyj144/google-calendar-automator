@@ -2,31 +2,36 @@ from datetime import datetime, timedelta
 
 class Event:
   def __init__(self, attributes):
-    # self.date = attributes['Date']
-    # self.time = attributes['Time']
-    self.datetime = datetime.strptime(attributes['Date'] + "/2016 " + attributes['Time'], 
+    if 'Date' in attributes:
+      self.date = attributes['Date']
+    else:
+      self.date = datetime.today().date().strftime('%a %m/%d')
+    self.time = attributes['Time']
+    self.datetime = self.datetime = datetime.strptime(self.date + "/2017 " + self.time, 
       "%a %m/%d/%Y %I:%M %p")
+      # "%a %m/%d/%Y %I%p")
 
-    self.opponent = attributes['Name']
-    self.location = attributes['Location']
-    self.notes = attributes['Notes']
-  
-  # def __init__(self, attributes_array):
-		# self.date = attributes_array[0]
-		# self.time = attributes_array[1]
-		# self.datetime = datetime.strptime(attributes_array[0] + "/2016 " + attributes_array[1], 
-  #     "%a %m/%d/%Y %I:%M %p")
-
-		# self.opponent = attributes_array[3]
-		# self.location = attributes_array[4]
-		# self.notes = attributes_array[5]
+    if 'Name' in attributes:
+      self.name = attributes['Name']
+    else:
+      self.name = 'Event'
+    
+    if 'Location' in attributes:
+      self.location = attributes['Location']
+    else:
+      self.location = ''
+    
+    if 'Notes' in attributes:
+      self.notes = attributes['Notes']
+    else:
+      self.notes = ''
 
   def __str__(self):
-		return (self.date + " " + self.time + " " + self.opponent + " " + self.location)
+		return (self.date + " " + self.time + " " + self.name + " " + self.location)
 
   def get_dict(self):
 		return {
-      'summary': self.opponent,
+      'summary': self.name,
       'location': self.location,
       'description': 'Game ' + self.location,
       'start': {
