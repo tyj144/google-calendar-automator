@@ -3,7 +3,7 @@ import re
 from event import Event
 
 def get_events():
-	html = open('schedule.txt', 'r').read()
+	html = open('soccer_schedule.txt', 'r').read()
 	soup = BeautifulSoup(html, 'html.parser')
 
 	schedule = []

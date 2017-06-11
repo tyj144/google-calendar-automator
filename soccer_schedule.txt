@@ -1,0 +1,1424 @@
+<div id="SSPP_SEASON_070101">
+ <div class="seasonViewModule">
+  <div class="sportName">
+   <p class="sportInfo">
+    Boys Varsity Soccer
+   </p>
+  </div>
+  <div class="seasonTitle">
+   <p class="titleMonth titleMonthPadded">
+    August 2016
+   </p>
+  </div>
+  <div class="seasonHeader">
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody>
+     <tr class="headerBackground">
+      <td valign="top" width="3%">
+      </td>
+      <td valign="top" width="8%">
+       <p class="seasonHeaderText">
+        Date
+       </p>
+      </td>
+      <td valign="top" width="19%">
+       <p class="seasonHeaderText">
+        Start Time (Arrival Time)
+       </p>
+      </td>
+      <td valign="top" width="8%">
+       <p class="seasonHeaderText">
+        Place
+       </p>
+      </td>
+      <td valign="top" width="25%">
+       <p class="seasonHeaderText">
+        Opponent(s)
+       </p>
+      </td>
+      <td valign="top" width="15%">
+       <p class="seasonHeaderText">
+        Location
+       </p>
+      </td>
+      <td valign="top" width="15%">
+       <p class="seasonHeaderText">
+        Event Title
+       </p>
+      </td>
+      <td valign="top" width="7%">
+       <p class="seasonHeaderText">
+        Score
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox" id="SSPP_p070101*H*" onclick="showEventPopup(62155233)" ssfilter="1">
+      <td class="seasonIconPractice dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Mon 08/15
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText ">
+        9:00 am
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText ">
+        <span class="seasonPractice">
+         PRACTICE
+        </span>
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText ">
+        Tryouts (ends at 11)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox" id="SSPP_p070101*H*" onclick="showEventPopup(62155239)" ssfilter="1">
+      <td class="seasonIconPractice dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Mon 08/15
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText ">
+        2:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText ">
+        <span class="seasonPractice">
+         PRACTICE
+        </span>
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText ">
+        tryouts (ends at 4)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox" id="SSPP_p070101*H*" onclick="showEventPopup(62155234)" ssfilter="1">
+      <td class="seasonIconPractice dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Tue 08/16
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText ">
+        9:00 am
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText ">
+        <span class="seasonPractice">
+         PRACTICE
+        </span>
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText ">
+        Tryouts (ends at 11)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox" id="SSPP_p070101*H*" onclick="showEventPopup(62155240)" ssfilter="1">
+      <td class="seasonIconPractice dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Tue 08/16
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText ">
+        2:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText ">
+        <span class="seasonPractice">
+         PRACTICE
+        </span>
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText ">
+        tryouts (ends at 4)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox" id="SSPP_p070101*H*" onclick="showEventPopup(62155235)" ssfilter="1">
+      <td class="seasonIconPractice dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Wed 08/17
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText ">
+        9:00 am
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText ">
+        <span class="seasonPractice">
+         PRACTICE
+        </span>
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText ">
+        Tryouts (ends at 11)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox" id="SSPP_p070101*H*" onclick="showEventPopup(62155241)" ssfilter="1">
+      <td class="seasonIconPractice dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Wed 08/17
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText ">
+        2:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText ">
+        <span class="seasonPractice">
+         PRACTICE
+        </span>
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText ">
+        tryouts (ends at 4)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox" id="SSPP_p070101*H*" onclick="showEventPopup(62155236)" ssfilter="1">
+      <td class="seasonIconPractice dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Thu 08/18
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText ">
+        9:00 am
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText ">
+        <span class="seasonPractice">
+         PRACTICE
+        </span>
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText ">
+        Tryouts (ends at 11)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox" id="SSPP_p070101*H*" onclick="showEventPopup(62155242)" ssfilter="1">
+      <td class="seasonIconPractice dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Thu 08/18
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText ">
+        2:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText ">
+        <span class="seasonPractice">
+         PRACTICE
+        </span>
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText ">
+        tryouts (ends at 4)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox" id="SSPP_p070101*H*" onclick="showEventPopup(62155237)" ssfilter="1">
+      <td class="seasonIconPractice dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Fri 08/19
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText ">
+        9:00 am
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText ">
+        <span class="seasonPractice">
+         PRACTICE
+        </span>
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText ">
+        Tryouts (ends at 11)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox" id="SSPP_p070101*H*" onclick="showEventPopup(62155243)" ssfilter="1">
+      <td class="seasonIconPractice dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Fri 08/19
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText ">
+        2:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText ">
+        <span class="seasonPractice">
+         PRACTICE
+        </span>
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText ">
+        tryouts (ends at 4)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextAway" id="SSPP_s070101SA*" onclick="showEventPopup(61724683)" ssfilter="1">
+      <td class="seasonIconAway dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Sun 08/21
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextAway ">
+        12:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Away
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextAway ">
+        @ Manchester West High School (Multiple Opponents)
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Meet: West Jamboree (Scrimmage)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextAway" id="SSPP_s070101SA*" onclick="showEventPopup(62037748)" ssfilter="1">
+      <td class="seasonIconAway dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Sun 08/21
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextAway ">
+        1:30 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Away
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextAway ">
+        @ Manchester West High School (Multiple Opponents)
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Meet: West Jamboree (Scrimmage)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextHome" id="SSPP_s070101SH*" onclick="showEventPopup(62230484)" ssfilter="1">
+      <td class="seasonIconHome dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Tue 08/23
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextHome ">
+        4:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextHome ">
+        vs Alvirne High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+        (Scrimmage)
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_7 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextAway" id="SSPP_s070101*A*" onclick="showEventPopup(60801872)" ssfilter="1">
+      <td class="seasonIconAway dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Fri 08/26
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextAway ">
+        4:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Away
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextAway ">
+        @ Merrimack High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+        GPS Turf Fields
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonTitle">
+   <p class="titleMonth titleMonthPadded">
+    September 2016
+   </p>
+  </div>
+  <div class="seasonHeader">
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody>
+     <tr class="headerBackground">
+      <td valign="top" width="3%">
+      </td>
+      <td valign="top" width="8%">
+       <p class="seasonHeaderText">
+        Date
+       </p>
+      </td>
+      <td valign="top" width="19%">
+       <p class="seasonHeaderText">
+        Start Time (Arrival Time)
+       </p>
+      </td>
+      <td valign="top" width="8%">
+       <p class="seasonHeaderText">
+        Place
+       </p>
+      </td>
+      <td valign="top" width="25%">
+       <p class="seasonHeaderText">
+        Opponent(s)
+       </p>
+      </td>
+      <td valign="top" width="15%">
+       <p class="seasonHeaderText">
+        Location
+       </p>
+      </td>
+      <td valign="top" width="15%">
+       <p class="seasonHeaderText">
+        Event Title
+       </p>
+      </td>
+      <td valign="top" width="7%">
+       <p class="seasonHeaderText">
+        Score
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_8 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextAway" id="SSPP_s070101*A*" onclick="showEventPopup(60801933)" ssfilter="1">
+      <td class="seasonIconAway dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Fri 09/02
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextAway ">
+        4:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Away
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextAway ">
+        @ Salem Athletics
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_8 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextHome" id="SSPP_s070101*H*" onclick="showEventPopup(60801946)" ssfilter="1">
+      <td class="seasonIconHome dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Tue 09/06
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextHome ">
+        4:30 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextHome ">
+        vs Timberlane Regional Schools
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Nashua High School North
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_8 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextHome" id="SSPP_s070101*H*" onclick="showEventPopup(60801964)" ssfilter="1">
+      <td class="seasonIconHome dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Fri 09/09
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextHome ">
+        4:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextHome ">
+        vs Bedford High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Nashua High School North
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_8 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextAway" id="SSPP_s070101*A*" onclick="showEventPopup(60801981)" ssfilter="1">
+      <td class="seasonIconAway dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Tue 09/13
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextAway ">
+        6:30 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Away
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextAway ">
+        @ Manchester Central High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Gill Stadium
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_8 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextAway" id="SSPP_s070101*A*" onclick="showEventPopup(60802015)" ssfilter="1">
+      <td class="seasonIconAway dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Fri 09/16
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextAway ">
+        4:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Away
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextAway ">
+        @ Dover Middle/High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_8 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextHome" id="SSPP_s070101*H*" onclick="showEventPopup(60802034)" ssfilter="1">
+      <td class="seasonIconHome dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Tue 09/20
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextHome ">
+        5:30 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextHome ">
+        vs Keene High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Stellos Stadium
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_8 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextAway" id="SSPP_s070101*A*" onclick="showEventPopup(60802045)" ssfilter="1">
+      <td class="seasonIconAway dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Sat 09/24
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextAway ">
+        5:30 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Away
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextAway ">
+        @ Nashua High School South
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Stellos Stadium
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Battle of the Bridge
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_8 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextHome" id="SSPP_s070101*H*" onclick="showEventPopup(60802057)" ssfilter="1">
+      <td class="seasonIconHome dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Tue 09/27
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextHome ">
+        7:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextHome ">
+        vs Alvirne High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Stellos Stadium
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_8 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextAway" id="SSPP_s070101*A*" onclick="showEventPopup(61100075)" ssfilter="1">
+      <td class="seasonIconAway dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Thu 09/29
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextAway ">
+        4:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Away
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextAway ">
+        @ Pinkerton Academy
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonTitle">
+   <p class="titleMonth titleMonthPadded">
+    October 2016
+   </p>
+  </div>
+  <div class="seasonHeader">
+   <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tbody>
+     <tr class="headerBackground">
+      <td valign="top" width="3%">
+      </td>
+      <td valign="top" width="8%">
+       <p class="seasonHeaderText">
+        Date
+       </p>
+      </td>
+      <td valign="top" width="19%">
+       <p class="seasonHeaderText">
+        Start Time (Arrival Time)
+       </p>
+      </td>
+      <td valign="top" width="8%">
+       <p class="seasonHeaderText">
+        Place
+       </p>
+      </td>
+      <td valign="top" width="25%">
+       <p class="seasonHeaderText">
+        Opponent(s)
+       </p>
+      </td>
+      <td valign="top" width="15%">
+       <p class="seasonHeaderText">
+        Location
+       </p>
+      </td>
+      <td valign="top" width="15%">
+       <p class="seasonHeaderText">
+        Event Title
+       </p>
+      </td>
+      <td valign="top" width="7%">
+       <p class="seasonHeaderText">
+        Score
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_9 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextAway" id="SSPP_s070101*A*" onclick="showEventPopup(60802094)" ssfilter="1">
+      <td class="seasonIconAway dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Wed 10/05
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextAway ">
+        4:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Away
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextAway ">
+        @ Hanover High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_9 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextHome" id="SSPP_s070101*H*" onclick="showEventPopup(60802103)" ssfilter="1">
+      <td class="seasonIconHome dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Fri 10/07
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextHome ">
+        4:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextHome ">
+        vs Winnacunnet High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Nashua High School North
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_9 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextAway" id="SSPP_s070101*A*" onclick="showEventPopup(60802114)" ssfilter="1">
+      <td class="seasonIconAway dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Tue 10/11
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextAway ">
+        5:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Away
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextAway ">
+        @ Bishop Guertin High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Stellos Stadium
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_9 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextAway" id="SSPP_s070101*A*" onclick="showEventPopup(60802123)" ssfilter="1">
+      <td class="seasonIconAway dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Fri 10/14
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextAway ">
+        4:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Away
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextAway ">
+        @ Concord High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+        Memorial Field, Concord
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextAway ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_9 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextHome" id="SSPP_s070101*H*" onclick="showEventPopup(60802129)" ssfilter="1">
+      <td class="seasonIconHome dividerLine grayBackgroundRow" valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Mon 10/17
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine grayBackgroundRow" valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextHome ">
+        7:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine grayBackgroundRow" valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine grayBackgroundRow" valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextHome ">
+        vs Exeter High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Stellos Stadium
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine grayBackgroundRow" valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Senior Night B Soccer
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine grayBackgroundRow" valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+  <div class="seasonRowItem_7_1_1_9 arrowAfter" ssfilter="1" style="display:block;overflow-x:auto;">
+   <table border="0" cellpadding="0" cellspacing="0" class="scheduleRowItem" width="100%">
+    <tbody>
+     <tr class="commonEventBox seasonTextHome" id="SSPP_s070101*H*" onclick="showEventPopup(60802139)" ssfilter="1">
+      <td class="seasonIconHome dividerLine " valign="center" width="3%">
+      </td>
+      <td class="seasonEventDate dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Fri 10/21
+       </p>
+      </td>
+      <td class="seasonStartTime dividerLine " valign="center" width="19%">
+       <p class="seasonDefaultText seasonTextHome ">
+        4:00 pm
+       </p>
+      </td>
+      <td class="seasonPlace dividerLine " valign="center" width="8%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Home
+       </p>
+      </td>
+      <td class="seasonOpponent dividerLine " valign="center" width="25%">
+       <p class="seasonDefaultText seasonTextHome ">
+        vs Londonderry High School
+       </p>
+      </td>
+      <td class="seasonEventLocation dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+        Nashua High School North
+       </p>
+      </td>
+      <td class="seasonEventTitle dividerLine " valign="center" width="15%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+      <td class="seasonEventScore dividerLine " valign="center" width="7%">
+       <p class="seasonDefaultText seasonTextHome ">
+       </p>
+      </td>
+     </tr>
+    </tbody>
+   </table>
+  </div>
+ </div>
+</div>
