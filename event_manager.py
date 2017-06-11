@@ -8,7 +8,6 @@ from oauth2client import tools
 from oauth2client.file import Storage
 
 import datetime
-import scraper
 
 try:
     import argparse
@@ -51,7 +50,7 @@ def get_credentials():
         print('Storing credentials to ' + credential_path)
     return credentials
 
-def main():
+def add_events(events_to_add):
     """Shows basic usage of the Google Calendar API.
 
     Creates a Google Calendar API service object and outputs a list of the next
@@ -61,21 +60,20 @@ def main():
     http = credentials.authorize(httplib2.Http())
     service = discovery.build('calendar', 'v3', http=http)
 
-    now = datetime.datetime.utcnow().isoformat() + 'Z' # 'Z' indicates UTC time
-    print('Getting the upcoming 10 events')
-    eventsResult = service.events().list(
-        calendarId='primary', timeMin=now, maxResults=10, singleEvents=True,
-        orderBy='startTime').execute()
-    events = eventsResult.get('items', [])
+    # now = datetime.datetime.utcnow().isoformat() + 'Z' # 'Z' indicates UTC time
+    # print('Getting the upcoming 10 events')
+    # eventsResult = service.events().list(
+    #     calendarId='primary', timeMin=now, maxResults=10, singleEvents=True,
+    #     orderBy='startTime').execute()
+    # events = eventsResult.get('items', [])
 
-    if not events:
-        print('No upcoming events found.')
-    for event in events:
-        start = event['start'].get('dateTime', event['start'].get('date'))
-        print(start, event['summary'])
+    # if not events:
+    #     print('No upcoming events found.')
+    # for event in events:
+    #     start = event['start'].get('dateTime', event['start'].get('date'))
+    #     print(start, event['summary'])
 
     links = []
-    events_to_add = scraper.get_events()
     for e in events_to_add:
         event = e
         event = service.events().insert(calendarId='primary', body=event).execute()
@@ -83,5 +81,5 @@ def main():
     
     print(links)
 
-if __name__ == '__main__':
-    main()
+# if __name__ == '__main__':
+#     main()

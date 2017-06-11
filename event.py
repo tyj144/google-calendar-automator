@@ -20,11 +20,11 @@ class Event:
       'location': self.location,
       'description': 'Game ' + self.location,
       'start': {
-        'dateTime': self.datetime.strftime('%Y-%m-%dT%X-04:00'),
+        'dateTime': self.datetime.isoformat(),
         'timeZone': 'America/New_York',
       },
       'end': {
-        'dateTime': (self.datetime + timedelta(hours=2)).strftime('%Y-%m-%dT%X-04:00'),
+        'dateTime': (self.datetime + timedelta(hours=2)).isoformat(),
         # 'dateTime': '2017-05-28T17:00:00-07:00',
         'timeZone': 'America/New_York',
       },
