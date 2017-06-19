@@ -74,13 +74,12 @@ def add_events(events_to_add):
     #     start = event['start'].get('dateTime', event['start'].get('date'))
     #     print(start, event['summary'])
 
-    links = []
     for e in events_to_add:
         event = e
+        e_name = e['summary']
         event = service.events().insert(calendarId='primary', body=event).execute()
-        links.append(event.get('htmlLink'))
-    
-    print(links)
+        print("Adding " + e_name + " at " + event.get('htmlLink'))
+
 
 # if __name__ == '__main__':
 #     main()

@@ -7,7 +7,7 @@ class Event:
     else:
       self.date = datetime.today().date().strftime('%a %m/%d')
     self.time = attributes['Time']
-    self.datetime = self.datetime = datetime.strptime(self.date + "/2017 " + self.time, 
+    self.datetime = self.datetime = datetime.strptime(self.date + "/2016 " + self.time, 
       "%a %m/%d/%Y %I:%M %p")
       # "%a %m/%d/%Y %I%p")
 
@@ -33,7 +33,7 @@ class Event:
 		return {
       'summary': self.name,
       'location': self.location,
-      'description': 'Game ' + self.location,
+      'description': '',
       'start': {
         'dateTime': self.datetime.isoformat(),
         'timeZone': 'America/New_York',

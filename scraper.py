@@ -37,8 +37,6 @@ def get_events(html, reference, row_tag=None, row_class=None, col_tag=None, col_
 			event_dict[reference[i]] = event[i]
 		schedule.append(event_dict)
 
-	print(schedule)
-
 	events_to_add = []
 	# create event objects from dictionaries
 	for event in schedule:
