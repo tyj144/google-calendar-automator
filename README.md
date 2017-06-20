@@ -7,7 +7,7 @@ Scrapes events from an HTML schedule and uploads them to Google Calendar automat
 * [Introduction](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#introduction)
 * [Installation and Usage](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#installation-and-usage)
 * [How It Works](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#how-it-works)
-  * [Executing the Plan](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#executing-the-plan-testsoccerpy)
+  * [Executing the Plan](https://github.com/tyj144/google-calendar-automator/blob/master/README.md#executing-the-plan-test_soccerpy)
   * [The Parts](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#the-parts)
 * [Current Issues/Limitations](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#current-issueslimitations)
 
