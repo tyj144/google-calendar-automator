@@ -3,30 +3,34 @@ import re
 from event import Event
 
 '''
-	Takes an html file, the row tag for the html, and a way to identify the column
+	Takes an html table, a way to identify the table's row, and a way to identify the column
 '''
 def get_events(html, reference, row_tag=None, row_class=None, col_tag=None, col_class=None):
 	soup = BeautifulSoup(html, 'html.parser')
 
 	events = []
 
-	# take in either a column tag or a class selector
+	# Split the HTML into a list of the table's rows
+	# This will split the schedule into events, which are stored in a list
 	if row_tag:
 		schedule_html = soup.find_all(row_tag)
 	else:
 		schedule_html = soup.find_all(class_=row_class)
 
+	# Within each event, split by attribute (e.g. date, time, location, etc.)
 	for event in schedule_html:
 		attributes = []
 
-		# choose between column tags and class selectors
+		# Split by column
 		if col_tag:
 			columns = event.find_all(col_tag)
 		else:
 			columns = event.find_all(class_=col_class)
 
+		# Stores these attributes in a list, each list is its own event
 		for element in columns:
 			attributes.append(element.get_text().strip(' \t\n\r'))
+		# put each event into the list called events
 		events.append(attributes)
 
 	# turn attributes into dictionaries
