@@ -130,7 +130,26 @@ def __init__(self, attributes):
 ```
 Contains an event object, which takes the dictionary from before and converts it to a JSON format that the Google Calendar API can use.
 
-The scraper returns a list of JSON dictionaries, each dictionary containing information about each event (in this case, each game).
+The JSON format that the API requires looks like this:
+```python
+{
+      'summary': self.name,
+      'location': self.location,
+      'description': '',
+      'start': {
+        'dateTime': self.datetime.isoformat(),
+        'timeZone': 'America/New_York',
+      },
+      'end': {
+        'dateTime': (self.datetime + timedelta(hours=2)).isoformat(),
+        'timeZone': 'America/New_York',
+      },
+...
+      },
+    }
+```
+
+The scraper returns a whole list of these JSON dictionaries, each dictionary containing information about each event (in this case, each game).
 
 ---
 
