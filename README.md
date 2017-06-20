@@ -9,6 +9,7 @@ Scrapes events from an HTML schedule and uploads them to Google Calendar automat
 * [How It Works](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#how-it-works)
   * [Executing the Plan](https://github.com/tyj144/google-calendar-automator/blob/master/README.md#executing-the-plan-test_soccerpy)
   * [The Parts](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#the-parts)
+* [Demo](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#demo)
 * [Current Issues/Limitations](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#current-issueslimitations)
 
 # Introduction
@@ -166,8 +167,17 @@ The heart of the event_manager lies in the following lines:
 for event in events_to_add:
     service.events().insert(calendarId='primary', body=event).execute()
 ```
-   
-## Current Issues/Limitations
+
+# Demo
+Calling `python2.7 test_soccer.py` within the directory will run the script, which looks something like this:
+![Running test_soccer.py](https://github.com/tyj144/google-calendar-automator/blob/master/demo/terminal.png)
+
+If running the script for the first time, you may need to log in to authorize Google Calendar Automator.
+
+Once the script has completed, the calendar will look something like this:
+![Completed event creation](https://github.com/tyj144/google-calendar-automator/blob/master/demo/results.png)
+
+# Current Issues/Limitations
 * Date strings must be edited manually depending on the website.
   * Dates are formatted differently from website to website, so it's difficult to tell the computer which part is the day, which part is the hour, etc. I looked into dateutil, however, it isn't compatible with Python 2.7.9.
 * The scraper only scrapes the part of the page with the schedule. It can't find the schedule itself.
