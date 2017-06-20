@@ -2,6 +2,7 @@ from datetime import datetime, timedelta
 
 class Event:
   def __init__(self, attributes):
+    print(attributes)
     if 'Date' in attributes:
       self.date = attributes['Date']
     else:
