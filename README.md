@@ -7,7 +7,6 @@ Scrapes events from an HTML schedule and uploads them to Google Calendar automat
 * [Introduction](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#introduction)
 * [Installation and Usage](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#installation-and-usage)
 * [How It Works](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#how-it-works)
-  * [Demo: Soccer Schedule](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#demo-soccer-schedule)
   * [The Parts](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#the-parts)
 * [Current Issues/Limitations](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#current-issueslimitations)
 
@@ -33,11 +32,7 @@ python2.7 test_soccer.py
 Google Calendar Automator provides a generalized solution to stripping a website's HTML schedule and adding the contents to Google Calendar.
 
 This general solution is based on the fact that all HTML schedules are organized in a tables, with rows and columns. Every row signifies an event, and every column signifies an attribute (e.g. date, time, location, etc.)
-## The Parts
-### Schedule Scraper (scraper.py)
 
-### Event Manager (event_manager.py)
-## Demo: Soccer Schedule
 Say for example, you see a [schedule](http://nashuanorthathletics.com/main/teamschedule/id/3695990/seasonid/4115615) online for your high school's soccer games. 
 
 ![Nashua North's soccer schedule](https://github.com/tyj144/google_calendar_automator/blob/master/demo/schedule.png)
@@ -82,6 +77,11 @@ If we filter the table's HTML so that we only get the sections with ```<div clas
 Within each row, we can pull out the event information by filtering by the ```<p>``` tag and putting each string in a list. The first ```<p>``` gives us the date, the second the time, the third whether it's home or away, etc.
 
 Since all events in the table are organized in the same way, we always know that the date is first, the time is second, etc. That means when Google Calendar asks for an event's date, we can pull it out of the first column. When Google Calendar asks for the event's location, we can pull it out of the fifth column. 
+
+## The Parts
+### Schedule Scraper (scraper.py)
+All schedules online are organized in some kind of table. Any HTML table will have a tag/class that marks its rows, and another tag/class that marks its columns.
+### Event Manager (event_manager.py)
 
 ## Current Issues/Limitations
 * Date strings must be edited manually depending on the website.
