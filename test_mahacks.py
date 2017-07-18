@@ -1,11 +1,10 @@
 from bs4 import BeautifulSoup
 import scraper
-import event_manager
  
 html = open('mahacks_schedule.html', 'r').read()
 reference = ['Time', 'Name']
 events = scraper.get_events(html, reference, row_tag='tr', col_tag='th')
-event_manager.add_events(events)
+scraper.add_events(events)
 
 
 # for event in schedule_html:
