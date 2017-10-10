@@ -3,6 +3,8 @@
 
 Finds calendar events within HTML and uploads them to Google Calendar.
 
+* **Note**: I built a generalized solution to finding and scraping HTML tables, which can be found here: https://github.com/tyj144/table-scraper
+
 # Table of Contents
 * [Introduction](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#introduction)
 * [Installation](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#installation-and-usage)
@@ -93,8 +95,9 @@ Since all events in the table are organized in the same way, we always know that
 We can then put all this information into JSON format and upload the event through the Google Calendar API. Rinse and repeat for each event. 
 
 # Current Issues/Limitations
-* Date strings must be edited manually depending on the website.
-  * Dates are formatted differently from website to website, so it's difficult to tell the computer which part is the day, which part is the hour, etc. I looked into dateutil, however, it isn't compatible with Python 2.7.9.
-* The scraper only scrapes the part of the page with the schedule. It can't find the schedule itself.
-  * For demo purposes, we only focused on scraping the portion of the HTML with the actual schedule. To use the scraper, one would have to copy and paste the schedule's HTML and place it in a text file.
-* No user interface.
+* <s>Date strings must be edited manually depending on the website.
+  * Dates are formatted differently from website to website, so it's difficult to tell the computer which part is the day, which part is the hour, etc. I looked into dateutil, however, it isn't compatible with Python 2.7.9.</s>
+  * Date string parsing is implemented in [table-scraper](https://github.com/tyj144/table-scraper).
+* <s>The scraper only scrapes the part of the page with the schedule. It can't find the schedule itself.
+  * For demo purposes, we only focused on scraping the portion of the HTML with the actual schedule. To use the scraper, one would have to copy and paste the schedule's HTML and place it in a text file.</s>
+  * Table detection within HTML is implemented in [table-scraper](https://github.com/tyj144/table-scraper).
