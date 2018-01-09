@@ -6,11 +6,11 @@ Finds calendar events within HTML and uploads them to Google Calendar.
 * **Note**: I built a generalized solution to finding and scraping HTML tables, which can be found here: https://github.com/tyj144/table-scraper
 
 # Table of Contents
-* [Introduction](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#introduction)
-* [Installation](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#installation-and-usage)
-* [Demo](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#demo)
-* [How It Works](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#how-it-works)
-* [Current Issues/Limitations](https://github.com/tyj144/google_calendar_automator/blob/master/README.md#current-issueslimitations)
+* [Introduction](https://github.com/tyj144/google-calendar-automator/blob/master/README.md#introduction)
+* [Installation](https://github.com/tyj144/google-calendar-automator/blob/master/README.md#installation-and-usage)
+* [Demo](https://github.com/tyj144/google-calendar-automator/blob/master/README.md#demo)
+* [How It Works](https://github.com/tyj144/google-calendar-automator/blob/master/README.md#how-it-works)
+* [Current Issues/Limitations](https://github.com/tyj144/google-calendar-automator/blob/master/README.md#current-issueslimitations)
 
 # Introduction
 **Problem**: A lot of people like to show their schedules on their websites, but they don't have any way of reminding their users about the events. For people like me that manage all their events in Google Calendar, we have to type **every single event** in manually.
@@ -22,7 +22,7 @@ Finds calendar events within HTML and uploads them to Google Calendar.
 Requires Python 2.
 1. Clone the repository.
 ```
-git clone https://github.com/tyj144/google_calendar_automator.git
+git clone https://github.com/tyj144/google-calendar-automator.git
 ```
 2. Install the requirements and authorize the Google Calendar API: https://developers.google.com/google-apps/calendar/quickstart/python
 ```
@@ -49,7 +49,7 @@ This general solution is based on the fact that all HTML schedules are organized
 
 Say for example, you see a [schedule](http://nashuanorthathletics.com/main/teamschedule/id/3695990/seasonid/4115615) online for your high school's soccer games. 
 
-![Nashua North's soccer schedule](https://github.com/tyj144/google_calendar_automator/blob/master/demo/schedule.png)
+![Nashua North's soccer schedule](https://github.com/tyj144/google-calendar-automator/blob/master/demo/schedule.png)
 However, they didn't give you an easy way to add them to your calendar, and adding every single one by hand is a slow, tedious process, especially if you have 16 games in a season.
 
 However, the creators must have organized the events themselves while writing the HTML for the schedule, otherwise the schedule itself would not be organized.
